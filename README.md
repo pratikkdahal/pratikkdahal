@@ -3,9 +3,7 @@
 <h1 align="center">Hi 👋, I'm Pratik Dahal</h1>
 <h3 align="center">🎓Undergrad Computer Engineering Student</h3>
 
-<p align="center">
-  <img src="https://cdni.iconscout.com/illustration/premium/thumb/full-stack-developer-4795321-3983781.png" width="400" alt="full stack dev" />
-</p>
+
 
 ---
 
