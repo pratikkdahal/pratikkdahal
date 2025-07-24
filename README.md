@@ -1,10 +1,10 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Pratik Dahal</h1>
 <h3 align="center">🎓Undergrad Computer Engineering Student</h3>
 
 <p align="center">
-  <img src="https://cdni.iconscout.com/illustration/premium/thumb/coding-on-computer-6074780-5059490.png" width="300" />
+  <img src="https://cdni.iconscout.com/illustration/premium/thumb/coding-on-computer-6074780-5059490.png" width="400" alt="coding" />
 </p>
 
 ---
