@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Pratik Dahal</h1>
-<h3 align="center">🎓Undergrad Computer Engineering Student | Passionate of Web Development | Learing Python </h3>
+<h3 align="center">🎓Undergrad Computer Engineering Student | Passionate of Web Development | Learning Python </h3>
 
 
 
