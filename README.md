@@ -1,22 +1,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Pratik Dahal</h1>
-<h3 align="center">🎓Undergrad Computer Engineering Student | Passionate of Web Development | Learning Python </h3>
+<h3 align="center">🎓Undergrad Computer Engineering Student</h3>
 
 
 
----
-
-### 🚀 About Me
-
-I’m **Pratik Dahal**, currently pursuing my **Bachelor’s Degree in Computer Engineering** at **IOE Purwanchal Campus, Dharan (ERC)**.
-
-- 👨‍💻 I enjoy building things for the web – especially with **HTML, CSS, JavaScript**
-- 🔌 I’m deeply interested in **hardware projects** using **Arduino UNO**, sensors, and embedded systems
-- 🧠 I have knowledge of **Python,HTML,CSS,JavaScript**, and also work with **C and C++**
-- 🌐 I’ve also made my own **portfolio website** to showcase my work
-
----
 
 ### 🧰 My Arsenal of Tools
 
