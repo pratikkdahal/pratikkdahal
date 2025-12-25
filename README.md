@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Pratik Dahal</h1>
 <h3 align="center">🎓Undergrad Computer Engineering Student</h3>
 
+* Learning MERN, Python and Django
+
 
 
 
