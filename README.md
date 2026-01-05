@@ -53,24 +53,23 @@
 
 ---
 
-### 📊 Most Used Languages
+## 📊 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikkdahal&layout=compact&theme=tokyonight&cache_seconds=1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikkdahal&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
-### 🔢 Visitor Counter
+## 🔢 Visitor Counter
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pratikkdahal&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
+---
 
-### 📈 GitHub Stats
-
-
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pratikkdahal&show_icons=true&theme=tokyonight" />
@@ -78,11 +77,10 @@
 
 ---
 
-### 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=pratikkdahal&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak Stats"
-  />
+  <img src="https://streak-stats.demolab.com?user=pratikkdahal&theme=tokyonight" />
 </p>
+
+---
